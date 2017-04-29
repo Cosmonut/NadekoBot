@@ -1,14 +1,17 @@
 #!/bin/sh
-clientid=""
-botid=""
-token=""
-ownerid=""
-googleapi=""
+clientid="219220562994528256"
+botid="219220562994528256"
+token="MjE5MjIwNTYyOTk0NTI4MjU2.C-Z1lA.I_plSU3hWw9dp5PWw8wQSIUMj2Y"
+ownerid="142788883187236866"
+googleapi="AIzaSyD9N_1-XnL--5DsSPPJueFYAkvsNMYtbKI"
 lolapikey=""
 mashapekey=""
 osu=""
 scid=""
-connection="Data Source=;Initial Catalog=;User ID=;Password="
+connection="Data Source=
+ec2-54-225-118-55.compute-1.amazonaws.com;Initial Catalog=
+d438ivinu3ku3e;User ID=clqhheilykgfht;Password=
+642e15a045f92a87d027ef6398446d8ca4a316065dae240cd26ae035f715975d"
 
 echo "NadekoBot 1.3a"
 
